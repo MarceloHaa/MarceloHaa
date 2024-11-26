@@ -10,7 +10,7 @@ Aos 36 anos, decidi mudar minha trajetória e iniciei minha jornada na área de 
 
 Atualmente, meu maior foco é o Frontend estou aprimorando minhas habilidades em C#, React, TypeScript, HTML, CSS e JavaScript, com o objetivo de construir soluções dinâmicas e intuitivas que criem valor para os usuários e para as empresas.
 
-Meu Portfólio: https://portifoliomarceloalmeida.netlify.app/
+Meu Portfólio: https://portfoliomarceloalmeida.netlify.app/
 
 Fique livre para me contatar: https://www.linkedin.com/in/marcelohenalmeida/
 
